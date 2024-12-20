@@ -1,0 +1,7 @@
+<style>
+    body{
+        background-color: blue;
+         font-style: italic;
+         font-family: cursive;
+    }   
+    
